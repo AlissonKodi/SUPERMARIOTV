@@ -1,0 +1,29 @@
+<channels>
+<channel>
+<name>[COLOR dodgerblue][B]B[/COLOR][COLOR gold]E[/COLOR][COLOR red]M[/COLOR] [COLOR green]V[/COLOR][COLOR gold]I[/COLOR][COLOR red]N[/COLOR][COLOR green]D[/COLOR][COLOR gold]O[/COLOR][COLOR dodgerblue]S[/COLOR][COLOR green]![/COLOR][/B]</name>
+<thumbnail>https://ia801407.us.archive.org/28/items/imagemdefundo/Bem%20vindos.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601407.us.archive.org/28/items/imagemdefundo/imagem%20de%20fundo.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
